@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """Unittest for base model module.
 This unittest is a collection of possible edge cases
