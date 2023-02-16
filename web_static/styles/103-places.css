@@ -3,7 +3,7 @@
  */
 
 /* Places flexbox */
-.places {
+.places 
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
