@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """Test Place"""
 from models.amenity import Amenity
 from models.base_model import BaseModel
