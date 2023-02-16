@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """test for file storage"""
 from datetime import datetime
 import json
