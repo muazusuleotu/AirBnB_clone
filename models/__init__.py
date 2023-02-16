@@ -1,4 +1,4 @@
-"""Initializes a variable `storage` to create 
+"""Initializes a variable `storage` to create a
 unique `FileStorage` instance for the HBNB application.
 Also, always the `__objects` class attribute of the
 `FileStorage` class is loaded with all objects on the
