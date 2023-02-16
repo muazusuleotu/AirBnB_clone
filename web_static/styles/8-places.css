@@ -1,4 +1,4 @@
-section.places {
+section.places 
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
